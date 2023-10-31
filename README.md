@@ -1,4 +1,4 @@
-# Wasp_genome_2019
+# Wasp_genomes
 Genome project of two Wiebesia fig wasps
 
 # Directory descriptions:
