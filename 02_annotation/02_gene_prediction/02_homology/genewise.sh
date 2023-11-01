@@ -1,0 +1,2 @@
+# an example of genewise command
+wise2.4.1/src/bin/genewise -gff /p200/wuzhy_group/luobw/data/jellywasp/3_annotation/2_gene/2_homology/1_genblasta/Amel/result/gwise/XP_006557413.1_1/XP_006557413.1.pep.fa /p200/wuzhy_group/luobw/data/jellywasp/3_annotation/2_gene/2_homology/1_genblasta/Amel/result/gwise/XP_006557413.1_1/XP_006557413.1_1.fa >/p200/wuzhy_group/luobw/data/jellywasp/3_annotation/2_gene/2_homology/1_genblasta/Amel/result/gwise/XP_006557413.1_1/XP_006557413.1_1.gwise.gff
